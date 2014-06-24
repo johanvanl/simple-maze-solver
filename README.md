@@ -4,6 +4,7 @@ A simple maze solver
 Solved a maze posted on [StackOverflow](http://stackoverflow.com/questions/12995434/representing-and-solving-a-maze-given-an-image), using Breadth-first search.
 
 The post asked to solve the following image:
+
 ![image](https://raw.githubusercontent.com/liloboy/simple-maze-solver/master/original.jpg)
 
 As suggested in the answers I used [GIMP](http://www.gimp.org/) to:
@@ -14,8 +15,10 @@ As suggested in the answers I used [GIMP](http://www.gimp.org/) to:
 * Implement breadth-first search and run it from the start, searching for the end.
 
 Obtaining:
+
 ![image](https://raw.githubusercontent.com/liloboy/simple-maze-solver/master/binary.gif)
 
 The output of [solve_maze.py](https://github.com/liloboy/simple-maze-solver/blob/master/solve_maze.py):
+
 ![image](https://raw.githubusercontent.com/liloboy/simple-maze-solver/master/solved.png)
 
